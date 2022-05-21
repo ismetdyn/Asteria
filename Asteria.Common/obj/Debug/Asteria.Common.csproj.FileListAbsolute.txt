@@ -1,0 +1,6 @@
+C:\Users\ismet\source\repos\Asteria\Asteria.Common\obj\Debug\Asteria.Common.csproj.AssemblyReference.cache
+C:\Users\ismet\source\repos\Asteria\Asteria.Common\obj\Debug\Asteria.Common.csproj.CoreCompileInputs.cache
+C:\Users\ismet\source\repos\Asteria\Asteria.Common\bin\Debug\Asteria.Common.dll
+C:\Users\ismet\source\repos\Asteria\Asteria.Common\bin\Debug\Asteria.Common.pdb
+C:\Users\ismet\source\repos\Asteria\Asteria.Common\obj\Debug\Asteria.Common.dll
+C:\Users\ismet\source\repos\Asteria\Asteria.Common\obj\Debug\Asteria.Common.pdb

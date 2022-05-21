@@ -1,0 +1,13 @@
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\obj\Debug\Asteria.Business.csproj.AssemblyReference.cache
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\obj\Debug\Asteria.Business.csproj.CoreCompileInputs.cache
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\bin\Debug\Asteria.Business.dll
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\bin\Debug\Asteria.Business.pdb
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\bin\Debug\Asteria.Common.dll
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\bin\Debug\Asteria.Entity.dll
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\bin\Debug\Asteria.ORM.dll
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\bin\Debug\Asteria.Common.pdb
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\bin\Debug\Asteria.Entity.pdb
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\bin\Debug\Asteria.ORM.pdb
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\obj\Debug\Asteria.Business.csproj.CopyComplete
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\obj\Debug\Asteria.Business.dll
+C:\Users\ismet\source\repos\Asteria\Asteria.Business\obj\Debug\Asteria.Business.pdb

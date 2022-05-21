@@ -1,0 +1,11 @@
+C:\Users\ismet\source\repos\Asteria\Asteria.ORM\obj\Debug\Asteria.ORM.csproj.AssemblyReference.cache
+C:\Users\ismet\source\repos\Asteria\Asteria.ORM\obj\Debug\Asteria.ORM.csproj.CoreCompileInputs.cache
+C:\Users\ismet\source\repos\Asteria\Asteria.ORM\bin\Debug\Asteria.ORM.dll
+C:\Users\ismet\source\repos\Asteria\Asteria.ORM\bin\Debug\Asteria.ORM.pdb
+C:\Users\ismet\source\repos\Asteria\Asteria.ORM\bin\Debug\Asteria.Common.dll
+C:\Users\ismet\source\repos\Asteria\Asteria.ORM\bin\Debug\Asteria.Entity.dll
+C:\Users\ismet\source\repos\Asteria\Asteria.ORM\bin\Debug\Asteria.Common.pdb
+C:\Users\ismet\source\repos\Asteria\Asteria.ORM\bin\Debug\Asteria.Entity.pdb
+C:\Users\ismet\source\repos\Asteria\Asteria.ORM\obj\Debug\Asteria.ORM.csproj.CopyComplete
+C:\Users\ismet\source\repos\Asteria\Asteria.ORM\obj\Debug\Asteria.ORM.dll
+C:\Users\ismet\source\repos\Asteria\Asteria.ORM\obj\Debug\Asteria.ORM.pdb
